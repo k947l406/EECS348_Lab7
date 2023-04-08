@@ -1,0 +1,7 @@
+body {background-color: white;}
+h1   {color: black;}
+p {
+  color: black;
+  border: 5px solid DarkGray;
+  padding: 30px;
+}
